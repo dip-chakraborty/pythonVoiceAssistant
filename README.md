@@ -1,5 +1,7 @@
 # pythonVoiceAssistant
 **This is a python based voice assistant program/bot which can perform some digital tasks based on the user's preferences.**
+As of now the whole project is based on non-AI python core features only. The individual modules has a scope to implement AI/NLP/DL in future which is in scope. Individual modules can exchange the voice command to pass recognition data so that it can have the aviation to expand/fork easily based on the user's/programmer's demand.
+
 
 ----------------------------------------------------------------------------------------------------------------------------
 
@@ -43,7 +45,7 @@ same as above at the time of the initial usage, the assistant will declare herse
 
 **main.py:** Main run module of the project. It uses speech recognition module to always access the voice provided by the user
 
-**assistanceloader.json:** _readme file edit in progress_
+**assistanceloader.json:** _readme file edit in progress_ (refer above run instructions for this)
 
 **assistantLoader.py:** _readme file edit in progress_
 
@@ -58,3 +60,5 @@ same as above at the time of the initial usage, the assistant will declare herse
 **searchInternet.py:** _readme file edit in progress_
 
 **sendEmail.py:** _readme file edit in progress_
+
+**cityWeatherDataExtractor.py:** _readme file edit in progress_
